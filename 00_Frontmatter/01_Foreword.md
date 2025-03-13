@@ -1,6 +1,6 @@
 ## Forord.
 
-Udvalget er nedsat af Ministeriet for offentlige Arbejder ved saaledes Skrivelse af 24. Januar 1946 til Kontorchef i nævnte Ministerium *Svend Garde*:
+Udvalget er nedsat af Ministeriet for offentlige Arbejder ved saalydende Skrivelse af 24. Januar 1946 til Kontorchef i nævnte Ministerium *Svend Garde*:
 
 > »Paa Grund af Forholdene under Besættelsen har en paakrævet Revision af Loven af 19. Februar 1932 om Eftersøgning og Indvinding af Raastoffer i Kongeriget Danmarks Undergrund midlertidigt maattet stilles i Bero, og Loven, der udløb i 1940, er derfor med faa og lidet betydende Ændringer blevet forlænget, senest ved en Lov af 29. Juni 1945 for Tiden indtil 1. Juli 1946.  
 > 
