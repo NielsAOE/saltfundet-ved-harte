@@ -1,4 +1,4 @@
-##Boremetoden m. v.
+## Boremetoden m. v.
 
 Paa Ravlins Arbejdsplads ved Harte fandtes det 30 m høje firkantede Boretaarn, der benyttedes ved Boringerne, samt følgende Bygninger: Ravlins Skur, som han benyttede til Opbevaring af forskelligt Boremateriel (f. Eks. Skærehovederne) og som Kontor- og Værkstedsskur, de tilsynsførende Geologers Skur, Arbejdernes Skur, et Materialskur og Kedel- huset. Skurene kunde aflåses med Laase af simpel Konstruktion; Nøglerne opbevaredes uden for Arbejdstiden paa et Nøglebræt i Ravlins Skur. Der var altid en Vagtmand paa Pladsen uden for Arbejdstiden.
 
