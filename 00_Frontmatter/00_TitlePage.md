@@ -10,3 +10,7 @@ J. H. SCHULTZ A/S
 UNIVERSITETS-BOGTRYKKERI  
 KØBENHAVN  
 1948
+
+![](../billeder/saltsten.jpeg)
+*Det 17 cm lange Stykke Stensalt, der angives at være fremdraget ved Kærneboringen den 13. November 1936 ved Harte fra ca. 958 m Dybde.  
+Elfelt fot. 1936.*

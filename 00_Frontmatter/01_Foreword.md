@@ -15,11 +15,11 @@ Direktør for Meteorologisk Institut, *Helge Petersen*,
 Professor ved Universitetet, Dr. phil. *Arne Noe-Nygaard*,  
 Professor ved Polyteknisk Læreanstalt, *Alfred Rosenkrantz*,  
 Direktør *G. E. Hartz* (udpeget af Industriiraadet) samt  
-Fuldmægtig i Ministeriet for offentlige Arbejder, cand. juris *J. Jørnov*.
+Fuldmægtig i Ministeriet for offentlige Arbejder, cand. juris *J. Jørnow*.
 
 Desuden beskikkede Ministeriet under 30. September 1947 Statsgeolog ved D. G. U., Dr. phil. *Sigurd Hansen* til Medlem af Udvalget.
 
-Sekretærforretningerne er udført af Fuldmægtig i Ministeriet for offentlige Arbejder, cand. juris *J. Jørnov*, og fungerende Fuldmægtig i samme Ministerium, cand. juris *F. J. Boas*.
+Sekretærforretningerne er udført af Fuldmægtig i Ministeriet for offentlige Arbejder, cand. juris *J. Jørnow*, og fungerende Fuldmægtig i samme Ministerium, cand. juris *F. J. Boas*.
 
 Som det vil fremgaa af Kommissoriet, har Udvalget faaet til Opgave at revidere den bestaaende Lovgivning om Eftersøgning og Indvinding af Raastoffer i Danmarks Undergrund. Som Følge af, at Loven var givet for et hidtil ukendt Retsomraade, var det i Loven fastsat, at den kun skulde gælde indtil 1940, og den er senere kun ganske midlertidigt blevet forlænget ved en Række Tillægslove.
 
