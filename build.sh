@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 # Safe build script that only includes existing .md files for Pandoc
 
-# Output file name
-OUTPUT="Book.pdf"
+# Output file names
+OUTPUT_PDF="Book.pdf"
+OUTPUT_EPUB="Book.epub"
 
 # PDF engine (change to pdflatex if preferred)
 PDF_ENGINE="xelatex"
@@ -33,9 +34,15 @@ if [ ${#FILES[@]} -eq 0 ]; then
   exit 1
 fi
 
-# Run pandoc with collected files
+# Build PDF
 echo "Building PDF from ${#FILES[@]} files..."
-pandoc "${FILES[@]}" --pdf-engine=$PDF_ENGINE -o "$OUTPUT"
+pandoc "${FILES[@]}" --pdf-engine=$PDF_ENGINE -o "$OUTPUT_PDF"
+echo "PDF created: $OUTPUT_PDF"
+
+# Build EPUB
+echo "Building EPUB from ${#FILES[@]} files..."
+pandoc "${FILES[@]}" -o "$OUTPUT_EPUB"
+echo "EPUB created: $OUTPUT_EPUB"
 
 # Done
-echo "PDF created: $OUTPUT"
+echo "All output files created successfully."
