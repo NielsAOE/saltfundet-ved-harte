@@ -1,0 +1,7 @@
+## 1. Den geologiske Lagserie.
+
+De to af Ravlin udførte Boringer ved Harte (Paaby I og Paaby II) ligger med en indbyrdes Afstand af 30 m og har givet overensstemmende Oplysninger vedrørende Lagserien indtil en Dybde af 791 m. Den videre Fortsættelse nedefter til ca. 1090 m kendes kun fra Boring en Paaby II. Lagseriens Sammensætning som oplyst ved disse Boringer fremgaar af vedføjede Profiltegning[^1], der er udarbejdet efter Oplysninger fra D. G. U. Den Del af Lagserien, som stammer fra Kvartærperioden (Istidens Aflejringer), Tertiærperioden og den yngre Del af Kridtperioden (Danien og Senon), var før 1936 kendt fra andre danske Lokaliterer og frembyder intet principielt nyt. Først de ældre Lag fra Kridtperioden: det haarde Kridt med Flint, den røde Kalksten (Albien), de sorte og brogede Skifre og den graa Mergelkalksten (Barrémien og Wealden) betyder en Nyvinding i vort Kendskab til Kridtformationen i Danmark. Dertil kommer saa Lagene, der gennemboredes mellem 968,6 m og 1090 m, og som formentlig tilhører Jura- og Triasformationerne, der her i Landet hidtil kun har været kendt faststaaende paa Bornholm. Det kan saaledes siges, at Boringerne ved Harte i betydelig Grad har udvidet vort Kendskab til Undergrundens Opbygning i Danmark.
+
+Det Saltlag, der efter Ravlins Paastand var til Stede, og som var Forudsætningen for Koncessionens Udstedelse, blev efter hans Forklaring gennemboret i en Dybde af ca. 958 m.
+
+[^1]: (Bilagstavle)
