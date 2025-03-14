@@ -8,13 +8,13 @@ I Boretaarnet var der ca. 1 m over Jorden en Træplatform (derrickfloor), i hvis
 
 For at afstive Borehullets Kanter ved Jordoverfladen blev der anbragt en Betonkasse omkring Hullet, og til og med de Dybder, hvor det paa Grund af Jordlagenes Beskaffenhed var nødvendigt, blev der anbragt Staalrør (Forerør), der forhindrede Udskridning af Borehullets Sider og styrede Borestammen under Optagning og Nedsænkning. Efter at Boring en Paaby II var blevet opgivet, søgte man i Efteraaret 1937 under Ravlins Ledelse og i Marts–April 1938 under Østmans Ledelse at faa Forerørene op, men flere af dem sad fast og maatte sprænges over. Det maa antages, at der endnu sidder 10¾" Forerør fra ca. 150 m—236,6 m Dybde, og at der herefter er en uforet Strækning til ca. 300 m Dybde, hvorefter der sidder 7" Forerør indtil 1029,9 m Dybde.
 
-![](../billeder/borepladsen.jpeg)
+![](billeder/borepladsen.jpeg)
 *Borepladsen ved Harte (Paaby II) Sommeren 1937. Ved Foden af Boretaarnet staar Maskinanlægget, til højre for Taarnet følger: Ravlins Kontor, et Materialskur, Arbejdernes Skur og Geologernes Skur; i 1936 var Ravlins Skur det som Materialskur betegnede Skur; yderst til højre ses Kedelhuset med de tre forlængede Lokomotivskorstene. 
 Magister Sole Munck fot.*
 
 Borearbejdet fandt i Almindelighed Sted i Dagtimerne, men der haves ogsaa Oplysninger om Boringer om Natten, hvor Arbejderne ikke var til Stede. Baade Ravlin og Østman forklarer ganske vist, at Boringerne altid skete med fuldt Mandskab, og at de ikke nogensinde har boret uden andres Medvirken om Natten, da de ikke vilde have været i Stand til alene at paasaette et nyt Borerør (joint). Ravlin hævder endog, at det vilde være uforsvarligt at bore, medmindre der til Stadighed var mindst 4 Mand til Stede. Heroverfor oplyser imidlertid Professor Noe-Nygaard, der en Overgang var tilsynsførende, at Ravlin selv borede hele Natten til den 5. November 1936 uden andre medvirkende end Østman, der tillige passede Fyret. Natboring [^1] fandt ifølge Professor Noe-Nygaard ogsaa Sted Natten mellem den 9. og 10. November 1936. Dette stemmer med, at Ravlin har noteret i sin Dagbog, at der blev boret de paagældende Nætter.
 
-![](../billeder/indre_boretaarn.jpeg)
+![](billeder/indre_boretaarn.jpeg)
 *Det indre af Boretaarnet ved Harte (Paaby II) Sommeren 1937. Man ser ind over den vindafskærmede Arbejdsplads i Taarnets Fod. Paa Boretaarnets Gulv (derrick-floor) staar op mod Bræddevæggene to Damspil. I Mellemgrunden lidt til højre for Billedets Midte ses det store vandret liggende Drivhjul (rotary-table), under hvis Centrum Borehullet er beliggende, og gennem hvilket det øverste Stykke af Borestammen rager op.  
 Magister Sole Munck fot.*
 
