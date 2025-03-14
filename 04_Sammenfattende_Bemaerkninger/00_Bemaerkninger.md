@@ -51,7 +51,7 @@ ad E. Da Ravlin paa det paagældende Tidspunkt ikke var i Stand til at fremskaff
 
 ad F. Udvalget kan ikke i den Omstændighed, at »Boret faldt«, se noget Bevis for, at der optræder Salttlag i Lagserien, da »Borets Fald« f. Eks. kan skyldes Boring i bløde Lerlag eller - i 1937 -, at man har ramt det gamle Borehul, jfr. Bemærkningerne ovenfor pag. 52 under d).  
 
--
+---
 
 Som det vil være fremgaaet af foranstaaende, finder Udvalget ikke, at de af Ravlin fremhævede Momenter paa nogen Maade gør det usandsynligt, endsige umuligt, at Saltkærnen kan være falsk. Det bemærkes iøvrigt i Forbindelse hermed, at første Gruppe (Punkterne Nr. 1-6) ensidigt forudsætter det eventuelle Bedrageri udført paa den af Østman oprindeligt beskrevne Maade ved Saltets Anbringelse i Kærnerøret inden dettes Nedsænkning, skønt der er Mulighed for, at et Bedrageri kan være udført paa anden Maade, f. Eks. derved, at Saltstykket efter Kærnerørets Optagning den 13. November i Ly af Tusmørket er anbragt i den af Boret udtagne Række af Kærnestykker. Ravlins anden Gruppe af Argumenter (Punkterne Litra A-F) refererer hovedsageligt til Ravlins Motiver til eventuelt at begaa et Bedrageri. Men som nedenfor nærmere omtalt, lader der sig meget vel paavise et Motiv, der kan begrunde et Falskneri.  
 
@@ -157,6 +157,6 @@ e. Efter *de geologiske Forhold*, der raader ved Harte, vil en Saltforekomst i 9
 
 Disse Forhold maa man tillægge afgørende Betydning ved Bedømmelsen af Saltfundets Ægthed.
 
--
+---
 
 Ministeriet har i 1943 overvejet ved Udførelse af en eller nogle faa Kontrolboringer og eventuelt tillige Gravning af en Skakt ved Harte at skaffe Klarhed over, om Saltfundet er et Falsum, og Udvalget har i 1946 genoptaget disse Overvejelser. Det ved Udvalgets Arbejde senere fremkomne Materiale fremtræder imidlertid med en saadan Vægt, at Udvalget ikke har fundet nogen Anledning til i nærværende Beretning at give en nærmere Redegørelse for disse Foranstaltninger, end sige stille noget Forslag om deres Foretagelse. Der kunde i øvrigt alene blive Tale om Kontrolboringer, idet det allerede derved utvivlsomt vilde være muligt med Sikkerhed at udtale, om der i Lagene forekommer Forstyrrelser af en saadan Karakter, at Dannelse af en Saltslire har kunnet finde Sted, og derigennem afgøre, om Saltfundet er et Falsum.
