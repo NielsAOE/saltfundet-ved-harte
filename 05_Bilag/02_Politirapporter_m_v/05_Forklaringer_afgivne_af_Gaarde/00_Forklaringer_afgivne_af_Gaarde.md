@@ -1,0 +1,1 @@
+### E. Forklaringer afgivne af Gaardejer Christen Dahl, Paaby, Materialhandler Johannes Aagaard, Kolding, Fiskeeksportør Rasmus Clausen, Strandby, Fru Anna Clausen, Strandby, Dr. phil. S. A. Andersen, Direktør Kaj Jørgensen og Karetmager Sigurd Madsen.

@@ -1,4 +1,4 @@
-## Sammenfattende Bemærkninger.
+# Sammenfattende Bemærkninger.
 
 Efter at Udvalget paa Grundlag af det tilvejebragte Materiale har overvejet Spørgsmaalet om Saltfundets Ægthed, har man fundet Anledning til at bemærke følgende:
 

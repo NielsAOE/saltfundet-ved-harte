@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Safe build script that only includes existing .md files for Pandoc
+# Enable nullglob so that non-matching globs expand to nothing.
+shopt -s nullglob
 
 # Output file names
 OUTPUT_PDF="Book.pdf"
@@ -8,41 +9,51 @@ OUTPUT_EPUB="Book.epub"
 # PDF engine (change to pdflatex if preferred)
 PDF_ENGINE="xelatex"
 
-# Collect markdown files in order, only if they exist
+# Array to hold the collected Markdown files
 FILES=()
 
-# Helper function to add files if they exist
-add_files() {
-  for file in $1; do
-    if [ -f "$file" ]; then
-      FILES+=("$file")
+# Recursive function to collect .md files in depth-first order.
+collect_md_files() {
+  local dir="$1"
+  # List items in lexicographical order.
+  for item in "$dir"/*; do
+    if [ -d "$item" ]; then
+      # Recursively process directories.
+      collect_md_files "$item"
+    elif [ -f "$item" ] && [[ "$item" == *.md ]]; then
+      FILES+=("$item")
     fi
   done
 }
 
-# Add files/folders in intended reading order
-add_files "00_Frontmatter/*.md"
-add_files "01_Orienterende_Bemaerkninger/*.md"
-add_files "02_Oplysninger_Saltfundet_Aegtheden/*.md"
-add_files "03_Geologiske_Forhold/*.md"
-add_files "04_Sammenfattende_Bemaerkninger/*.md"
-add_files "05_Bilag/**/*.md"  # Recursive for bilag and subfolders
+collect_md_files "00_Frontmatter"
+collect_md_files "01_Orienterende_Bemaerkninger"
+collect_md_files "02_Oplysninger_Saltfundet_Aegtheden"
+collect_md_files "03_Geologiske_Forhold"
+collect_md_files "04_Sammenfattende_Bemaerkninger"
+collect_md_files "05_Bilag"
+collect_md_files "06_Bilag_ToC"
 
-# Check if there are any files to process
+# Print out all the found Markdown files.
+echo "Markdown files found in depth-first order:"
+for mdfile in "${FILES[@]}"; do
+  echo "$mdfile"
+done
+
+# Exit if no files were found.
 if [ ${#FILES[@]} -eq 0 ]; then
   echo "No Markdown files found. Nothing to do."
   exit 1
 fi
 
-# Build PDF
+# Build PDF using Pandoc.
 echo "Building PDF from ${#FILES[@]} files..."
-pandoc "${FILES[@]}" --pdf-engine=$PDF_ENGINE -o "$OUTPUT_PDF"
+pandoc "${FILES[@]}" --pdf-engine="$PDF_ENGINE" -o "$OUTPUT_PDF"
 echo "PDF created: $OUTPUT_PDF"
 
-# Build EPUB
+# Build EPUB using Pandoc.
 echo "Building EPUB from ${#FILES[@]} files..."
 pandoc "${FILES[@]}" -o "$OUTPUT_EPUB"
 echo "EPUB created: $OUTPUT_EPUB"
 
-# Done
 echo "All output files created successfully."
