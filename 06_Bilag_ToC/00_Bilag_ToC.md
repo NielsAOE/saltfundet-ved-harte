@@ -1,0 +1,166 @@
+# BILAGSFORTEGNELSE
+
+1. **Undergrundslove, Eneretsbevilling m. m.**
+   - **1:** Lov Nr. 27 af 19. Februar 1932 om Efterforskning og Indvinding af Raastoffer i Kongeriget Danmarks Undergrund.
+   - **2:** Lov Nr. 130 af 13. April 1938 om Tillæg til Lov Nr. 27 af 19. Februar 1932.
+   - **3:** F. F. Ravlins Skrivelse af 3. August 1934 til Statsministeriet.
+   - **4:** Statsministeriets Skrivelse af 25. Januar 1935 til F. F. Ravlin, Miami, Florida, U.S.A.
+   - **5:** Højesteretssagfører Viggo Carstensens Skrivelse af 17. November 1936 til Statsministeriet.
+   - **6:** Eneretsbevilling til Efterforskning og Indvinding af Raastoffer i Kongeriget Danmarks Undergrund (dateret 7. Februar 1938).
+   - **7:** Overenskomst. (Den mellem Statsministeriet og Danish American Prospecting Company under 17. Februar 1940 afsluttede Tillægsoverenskomst til Eneretsbevillingen).
+   - **8:** Danmarks geologiske Undersøgelses Skrivelse af 21. November 1936 til Statsministeriet.
+
+2. **Politirapporter m. v.**
+   - **A. Østmans Forklaringer til Politiet.**
+      - **9:** Politirapport af 11. Marts 1943.
+      - **10:** Politirapport af 16. Marts 1943.
+      - **11:** Politirapport af 9. April 1943.
+      - **12:** Politirapport af 16. Oktober 1946.
+      - **13:** Politirapport af 18. Oktober 1946.
+      - **14:** Politirapport af 22. Oktober 1946.
+      - **15:** Østmans skriftlige Erklæring til Politiet af 22. Oktober 1946.
+      - **16:** Politirapport af 11. November 1946.
+      - **17:** Politirapport af 17. April 1948.
+      - **18:** Politirapport af 19. April 1948.
+      - **19:** Politirapport af 17. April-12. Maj 1948.
+   - **B. De tilsynsførende Geologers Forklaringer.**
+      - **20:** Kontorchef i Ministeriet for offentlige Arbejder S. Gardes Referat af hans Samtale med Dr. Victor Madsen den 15. Februar 1943 med Tilføjelser og Ændringer af Dr. Madsen.
+      - **21:** Politirapport af 2. April 1943.
+      - **22:** Politirapport af 17. April 1943.
+   - **C. Personalets Forklaringer.**
+      - **23:** Politirapport af 19. Marts 1943.
+      - **24:** Politirapport af 19. Marts 1943.
+      - **25:** Politirapport af 23. Marts 1943.
+      - **26:** Politirapport af 25. Marts 1943.
+      - **27:** Politirapport af 26. Marts 1943.
+      - **28:** Politirapport af 27. Marts 1943.
+      - **29:** Politirapport af 24. April 1943.
+      - **30:** Politirapport af 7. Juli 1947.
+   - **D. Forklaringer m. m., afgivet af Direktør Thorkild Juncker, fhv. Minister Gunnar Larsen, Landsretssagfører Hermod Lannung og Overretssagfører Thorvald Mikkelsen.**
+      - **31:** Politirapport af 1. April 1943.
+      - **32:** Politirapport af 24. September 1946 og flg.
+      - **33:** Politirapport af 26. September 1946.
+      - **34:** Uddrag af fhv. Minister Gunnar Larsens Dagbog.
+      - **35:** Politirapport af 4. Oktober 1946.
+      - **36:** Politirapport af 4. Juni 1948.
+      - **37:** Afskrift af Landsretssagfører Lannungs Notater af 4. Juni 1941.
+      - **38:** Politirapport af 24. Juni 1948.
+   - **E. Forklaringer afgivne af Gaardejer Christen Dahl, Paaby, Materialhandler Johannes Aagaard, Kolding, Fiskeeksportør Rasmus Clausen, Strandby, Fru Anna Clausen, Strandby, Dr. phil. S. A. Andersen, Direktør Kaj Jørgensen og Karetmager Sigurd Madsen.**
+      - **39:** Politirapport af 25. Marts 1943.
+      - **40:** Politirapport af 25. Marts 1943.
+      - **41:** Politirapport af 21. Marts 1943.
+      - **42:** Politirapport af 9. Oktober 1946.
+      - **43:** Fru Anna Clausens skriftlige Erklæring af 11. Oktober 1946.
+      - **44:** Politirapport af 12. Oktober 1946.
+      - **45:** Politirapport af 18. April 1948.
+      - **46:** Politirapport af 2. Juni 1948.
+   - **F. Fhv. Generalkonsul Kriigers og Dr. Bests Forklaringer.**
+      - **47:** Politirapport af 27. Juni 1947.
+      - **48:** Politirapport af 11. Juli 1947.
+   - **G. Forklaringer afgivet af Gulf Refining Company og Kontorchef i Danish American Prospecting Company Kai E. Christensen.**
+      - **49:** Gulf Refining Company's Skrivelse af 11. Juni 1948.
+      - **50:** Politirapport af 21. Juni 1948.
+
+3. **Retsbogsudskrifter.**
+   - **51:** Udskrift af Retsbogen for den 16. December 1946 for Frederikshavn Købstad m. v.
+   - **52:** Udskrift af Retsbogen for den 16. December 1946 for Hjørring Købstad m. v.
+   - **53:** Udskrift af Retsbogen for den 22. Januar 1947 for Københavns Byrets 5. Afdeling.
+   - **54:** Udskrift af Retsbogen for den 4. Juni 1948 for Københavns Byrets 5. Afdeling.
+
+4. **F. F. Ravlins Forklaringer.**
+   - **55:** Forklaring afgivet i Oktober 1947 i Washington.
+   - **56:** Forklaring afgivet i April-Maj 1948 i Miami i Florida.
+
+5. **Geologiske og tekniske Beskrivelser af Borearbejdet og Boreprøverne.**
+   - **A. De tilsynsførende Geologers Optegnelser m. m.**
+      - **57:** Dr. phil. Victor Madsens skriftlige Erklæring af 14. November 1936.
+      - **58:** Dr. phil. Victor Madsens Skrivelse af 27. Februar 1943 til Ministeriet for offentlige Arbejder.
+      - **59:** Uddrag af Dr. phil. H. Ødums Lommebøger for 1936 og 1937.
+      - **60:** Uddrag af Breve til Dr. phil. H. Ødum fra November 1936.
+      - **61:** Mag. scient. Arne Noe-Nygaards Rapport for November 1936.
+      - **62:** Danmarks geologiske Undersøgelses Optegnelser fra Maj 1937.
+   - **B. Andre Erklæringer om foretagne Undersøgelser.**
+      - **63:** Danmarks geologiske Undersøgelses Analyse-Attest af 30. November 1936 vedrørende Saltkærnen fra Harte.
+      - **64:** Danmarks geologiske Undersøgelses Skrivelse af 6. August 1943 til Ministeriet for offentlige Arbejder.
+      - **65:** Rigspolitichefens Tekniske Afdelings Erklæring af 10. August 1943 vedrørende Saltkærnen fra Harte.
+      - **66:** Dr. phil. Helge Grys Erklæring af 6. Marts 1943 vedrørende petrografisk Undersøgelse af Kærneprøver fra Boringen Paaby II.
+   - **C. F. F. Ravlins og Danish American Prospecting Company's Optegnelser.**
+      - **67:** Uddrag af F. F. Ravlins Dagbog for Harteboringerne for 1936 og 1937.
+      - **68:** Chefgeolog C. A. Bairds Skrivelse af 18. Oktober 1939 til Vicepræsident Guy Stevens.
+      - **69:** Danish American Prospecting Company's Oversigt over Arbejdet med Boringen Paaby II. History of Well.
+      - **70:** Danish American Prospecting Company's Oversigt over geologiske Iagttagelser m. v. ved Boringen Paaby II. Log of Harte No. 2.
+      - **71:** Danish American Prospecting Company's Beskrivelse af Kærneprøver fra Boringen Paaby II. Core Descriptions - Harte No. 2.
+   - **D. F. F. Ravlins Prøvekuffert.**
+      - **72:** Danish American Prospecting Company's Erklæring af Marts 1947 vedrørende Kuffertens Modtagelse og Aabning i New York.
+      - **73:** Protokol af 7. November 1947 vedrørende Kuffertens Aabning paa Danish American Prospeeting Company's Kontor i København.
+      - **74:** Mødeprotokol af den 20. November 1947 vedrørende Udtagning af Prøver til nærmere Undersøgelse.
+      - **75:** Mødeprotokol af den 24. November-2. December 1947 vedrørende Undersøgelse af udtagne Prøver.
+
+6. **Erklæringer paa Grundlag af det foreliggende geologiske Materiale.**
+   - **76:** Professor S. E. Hollingworth's Responsum af August 1947.
+   - **77:** Dr. phil. Johannes Troelsens Erklæring af 7. December 1947.
+   - **78:** Professor Alfred Rosenkrantz's Erklæring af 7. December 1947.
+   - **79:** Professor, Dr. phil. Arne Noe-Nygaards Erklæring af 10. December 1947
+   - **80:** Professorerne Arne Noe-Nygaards og Alfred Rosenkrantz's Erklæring af 20. Januar 1948.
+   - **81:** Professor S. E. Hollingworth's Responsum af 26. Januar 1948.
+
+7. **Diverse Breve og Optegnelser m. v.**
+   - **A. Uddrag af Østmans Dagbogsnotater m.v.**
+      - **82:** Rigspolitichefens Tekniske Afdelings Erklæring af 6.-10. August 1948 vedrørende Notat for den 13. November 1937.
+      - **83:** Uddrag af Notater for September-Oktober 1937.
+      - **84:** Profil for Boringen: Paaby II
+      - **85:** Notat for den 28. April 1941
+   - **B. Uddrag af Breve og Telegrammer mellem Ravlin og Østman.**
+      - **86:** Uddrag af Ravlins Brev af 4. Oktober 1934 til Østman.
+      - **87:** Uddrag af Østmans Brev af 26. Oktober 1934 til Ravlin.
+      - **88:** Uddrag af Østmans Brev af 26. November 1934 til Ravlin.
+      - **89:** Ravlins Telegram af 30. November 1934 til Østman.
+      - **90:** Uddrag af Østmans Telegram af 1. December 1934 til Ravlin.
+      - **91:** Ravlins Telegram af 6. December 1934 til Østman.
+      - **92:** Uddrag af Ravlins Brev af 7. December 1934 til Østman.
+      - **93:** Uddrag af Østmans Brev af 15. December 1934 til Ravlin.
+      - **94:** Ravlins Telegram af 21. Februar 1935 til Østman.
+      - **95:** Uddrag af Østmans Brev af 22. April 1935 til Ravlin.
+      - **96:** Uddrag af Østmans Brev af September 1935 til Ravlin.
+      - **97:** Ravlins Brev af 17. Februar 1936 til Østman.
+      - **98:** Uddrag af Ravlins Brev af 12. Marts 1936 til Østman.
+      - **99:** Uddrag af Ravlins Brev af 19. November 1936 til Østman.
+      - **100:** Uddrag af Østmans Brev af 13. December 1936 til Ravlin.
+      - **101:** Uddrag af Ravlins Brev af 13. December 1936 til Østman.
+      - **102:** Uddrag af Østmans Brev af 21. December 1936 til Ravlin.
+      - **103:** Uddrag af Ravlins Brev af 29. December 1936 til Østman.
+      - **104:** Uddrag af Østmans Brev af 31. December 1936 til Ravlin.
+      - **105:** Uddrag af Ravlins Brev af 5. Januar 1937 til Østman.
+      - **106:** Ravlins Telegram af 19. Januar 1937 til Østman.
+      - **107:** Uddrag af Ravlins Brev af 19. Januar 1937 til Østman.
+      - **108:** Uddrag af Østmans Brev af 30. Januar 1937 til Ravlin.
+      - **109:** Uddrag af Østmans Brev af 7. Februar 1937 til Ravlin.
+      - **110:** Ravlins Brev af 5. September 1939 til Østman.
+      - **111:** Østmans Brev af 25. September 1940 til Ravlin.
+      - **112:** Ravlins Brev af 30. Juli 1941 til Østman.
+      - **113:** Østmans Brev af 28. April 1946 til Ravlin.
+      - **114:** Østmans Brev af 28. Juni 1946 til Ravlin.
+      - **115:** Østmans Brev af 9. August 1946 til Ravlin.
+      - **116:** Østmans Brev af 28. December 1946 til Ravlin.
+   - **C. Østmans Redegørelser til Danish American Prospecting Company og Udvalget til Revision af Undergrundslovene.**
+      - **117:** Østmans Skrivelse af 4. Juli 1945 til Danish American Prospecting Companys Præsident.
+      - **118:** Østmans Skrivelse af 16. Maj 1946 til Udvalget til Revision af Undergrundslovene.
+   - **D. Andre Breve og Notater.**
+      - **119:** Carl Holms Brev af 2. Januar 1936 til Dr. phil. Victor Madsen.
+      - **120:** Dr. phil. H. Ødums Brev af 10. November 1936 til Østman.
+      - **121:** Uddrag af Ravlins Telegram af 29. December 1936 til Højesteretssagfører V. Carstensen.
+      - **122:** Einer Olsens Brev af 15. September 1939 til Østman.
+      - **123:** Østmans Brev af 11. December 1939 til Ejner Olsen.
+      - **124:** Uddrag af Forhandlingsprotokollen for A/S Undergrunden, Aarhus.
+      - **125:** Højesteretssagfører L. Gamborgs Notat om hans Samtale med Østman paa Hotel Royal den 28. April 1941 Kl. 19.
+      - **126:** Landsretssagfører H. Lannungs Brev af 20. Juni 1941 til Højesteretssagfører L. Gamborg
+      - **127:** Højesteretssagfører L. Gamborgs Brev af 15. Januar 1942 til Landsretssagfører H. Lannung.
+      - **128:** Østmans Brev af 17. Juli 1942 til Direktør H. Wolff.
+      - **129:** Østmans Brev af 6. Marts 1943 til Landsretssagfører H. Lannung.
+      - **130:** Uddrag af Østmans Brev af 23. Februar 1944 til Dr. phil. Victor Madsen.
+      - **131:** Højesteretssagfører V. Carstensens Brev af 27. August 1945 til Østman.
+      - **132:** Østmans Brev af 28. August 1945 til Højesteretssagfører V. Carstensen.
+      - **133:** Uddrag af Østmans Brev af 31. December 1946 til tidligere Chefgeolog ved Danish American Prospecting Company C. A. Baird.
+      - **134:** Østmans Brev af 29. Maj 1947 til Direktør Albert Gregersen.
+      - **135:** Østmans Brev af 1. Juli 1947 til Højesteretssagfører L. Gamborg.
+      - **136:** Ravlins Brev af 1. December 1947 til Dr. phil. H. Ødum.
