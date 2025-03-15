@@ -1,5 +1,23 @@
-#### Politirapport af 7. Juli 1947.
+### Politirapport af 7. Juli 1947.
 
-Bilag 30.
+**Bilag 30.**
 
-(Content goes here)
+Ifølge Skrivelse af 4. Juni 1947 fra Ministeriet for offentlige Arbejder ønskes Ravlins tidligere Boremester, Remahl, afhørt, om han som af Østman forklaret (Side 114) om Morgenen den 13. November 1936 har kigget gennem Kærnerøret, og om han har set andre kigge gennem Kærnerøret den nævnte Morgen, samt om det var sædvanligt, at man inden Paabegyndelsen af Kærneboringen paa denne eller anden Maade sikrede sig, at Kærnetageren var tom.
+
+I den Anledning har jeg indfundet mig i Falkenberg, hvor jeg den 5. ds. har afhørt Boremester Steen Remahl, der forklarer, at han ikke kikkede gennem Kærnerøret den 13. November 1936, forinden Kærneboringen om Morgenen paabegyndtes. Han har heller ikke den nævnte Morgen set andre kigge gennem Kærnerøret, og han vil hævde, at dette ogsaa har været udelukket, idet Kærnetageren afgjort har ligget samlet, da Kpt. og Arbejderne kom om Morgenen, og det derved var udelukket at kigge gennem den. Iøvrigt plejede man heller aldrig at kikke gennem Kærnetageren, naar man samlede den, hvilket Kpt. afgjort kan sige, da han ellers altid var med ved Samlingen, hvilket Arbejde sorterede under Kpt. Naar man ikke gjorde dette, saa skyldtes det, at Kpt. jo ikke gik og tænkte paa, at nogen eventuelt vilde lave Falskneri, og naar man havde kærneboret, saa skød man jo Kærnen ud, og dermed var Rørene tomme og skulde jo saa naturligvis ogsaa være det, naar de atter blev samlet, hvorfor man ikke paa nogen Maade sikrede sig, at de ogsaa virkelig var det, da dette blev betragtet som en Selvfølge.
+
+Kpt. gøres bekendt med Østmans seneste Forklaring — Side 114: »at Boret var adskilt i alle sine Bestanddele, da han (Østman) den 13. November 1936 om Morgenen indfandt sig paa Borestedet, og at han — umiddelbart forinden Kærnerøret skulde sænkes — kikkede gennem det, hvilket han ogsaa mener, Boremester Remahl gjorde.«
+
+Kpt. siger hertil, at Østmans Forklaring er absolut usandfærdig, for Kærnetageren laa som forklaret samlet om Morgenen, og rent bortset herfra saa vilde det have været noget højst nyt at kikke gennem Røret.
+
+Som tidligere af Kpt. forklaret, saa ligger det aldeles fast, at Østman og Ravlin om Aftenen den 12. November 1936, da Arbejderne enten var gaaet eller var i Færd hermed, var begyndt at samle Kærnetageren, hvorfor Kpt. tilbød sin Assistance, der dog blev afslaaet, hvilket Afslag Kpt. af de under den tidligere Afhøring nævnte Grunde fandt besynderligt. Saafremt Østman derfor om Morgenen den 13. skal have kigget gennem Røret, saa vil det sige, at han og Ravlin ikke har fuldendt Samlingen om Aftenen den 12., hvilket naturligvis heller ikke kan udelukkes, hvorfor saa maa de have gjort det om Morgenen den 13., inden Kpt. og Arbejderne kom, hvilket strider mod, at Kpt. ellers altid kom først om Morgenen og uden Tvivl ogsaa er kommet først den 13., men tillige strider det mod Østmans Forklaring, hvorefter Samlingen skal være sket, efter at Kpt. var kommet.
+
+For Kpt. er der ingen som helst Tvivl om, at Kærnetageren laa samlet, da han og Arbejderne kom om Morgenen den 13., selv om han nu saa mange Aar derefter ikke i Tankerne klart ser dette for sig — at Kærnetageren laa samlet paa Jorden —, men som nævnt havde Kpt. fundet Afslaget om hans Assistance den foregaaende Aften besynderligt, selv om han ikke straks tænkte paa Falskneri, men det har uden Tvivl skærpet hans Opmærksomhed, og han var i hvert Fald straks, da Saltet om Aftenen blev fundet, klar over, at Kærnetageren havde ligget samlet, da han kom om Morgenen, og det samme udtalte nogle af Arbejderne, som han diskuterede Fundet med straks efter, og man fandt derfor Omstændighederne meget mistænkelige.
+
+Kpt. faar derefter Lejlighed til at gennemlæse sin tidligere Forklaring til Hovedrapporten Side 166—169, og han godkender denne, idet han dog bemærker til Side 168, at det — efter hvad han senere hørte — var selve Borerørene, der voldte Besvær i 1937.
+
+Kpt. kom som forklaret til Skade under Arbejdet i 1937 og laa i Hospital fra 22. Maj til Begyndelsen af September samme Aar, hvorefter han rejste til Sverrig, hvor han dog var uarbejdsdygtig i 3 Aar paa Grund af Tilskadekomsten.
+
+I Juni—Juli 1942 fik Kpt. en skriftlig Forespørgsel fra Østman gaaende ud paa, hvorvidt Kpt. kunde tænke sig at arbejde for Østmans Firma som Boremester et eller andet Sted i Europa. Efter Aftale rejste Kpt. derpaa til Aarhus, hvor han opholdt sig nogen Tid paa Firmaets Regning, og derpaa tog han gennem Østmans Firma Ansættelse som Boremester i Polen. Han havde Kontrakt med Østmans Selskab »Undergrunden« for ½ Aar, men Kontrakten forstattedes automatisk. Han fik sin Løn af det tyske Selskab i udenlandsk Mønt. Han var hjemme paa Orlov, da han den 24. April 1943 blev afhørt af undertegnede, og han rejste ikke tilbage.
+
+**Dyrsted,** Kriminalassistent.

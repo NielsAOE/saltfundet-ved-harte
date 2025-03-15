@@ -1,4 +1,4 @@
-#### Politirapport af 18. Oktober 1946.
+### Politirapport af 18. Oktober 1946.
 
 **Bilag 13.**
 

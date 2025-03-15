@@ -1,4 +1,4 @@
-#### Politirapport af 19. April 1948.
+### Politirapport af 19. April 1948.
 
 **Bilag 18.**
 

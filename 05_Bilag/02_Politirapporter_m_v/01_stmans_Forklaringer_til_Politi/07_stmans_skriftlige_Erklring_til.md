@@ -1,4 +1,4 @@
-#### Østmans skriftlige Erklæring til Politiet af 22. Oktober 1946.
+### Østmans skriftlige Erklæring til Politiet af 22. Oktober 1946.
 
 **Bilag 15.**
 
