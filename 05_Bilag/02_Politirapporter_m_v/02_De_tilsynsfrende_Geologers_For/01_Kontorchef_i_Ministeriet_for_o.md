@@ -1,5 +1,13 @@
 #### Kontorchef i Ministeriet for offentlige Arbejder S. Gardes Referat af hans Samtale med Dr. Victor Madsen den 15. Februar 1943 med Tilføjelser og Ændringer af Dr. Madsen.
 
-Bilag 20.
+**Bilag 20.**
 
-(Content goes here)
+Fhv. Direktør for Danmarks Geologiske Undersøgelse *Dr. phil. Victor Madsen*, født 1865, har under en Samtale med mig den 15. Februar 1943 meddelt mig, at han var til Stede ved Harte-Boringen den 13. November 1936, da Saltfundet skete. Hans Assistent, nuværende Professor Noe-Nygaard, havde opholdt sig ved Boringerne fra den 4. November som Tilsynsførende ved den, og Dr. Madsen rejste jævnlig derover for at holde sig a jour med den. Han var der saaledes den 2.—11. Oktober, d. 19. Oktober, 1. November og den 8.—15. November. Han var ikke til Stede om Morgenen, da Boret med Kernerøret blev ført ned i Borehullet, men han overværede Optagningen ved 6-Tiden om Aftenen. Der var da boret fra 956 til 959 m under Overfladen. Sammen med Noe-Nygaard og Ingeniør Østman fulgte han med, da den 1½ m lange Kærnetager blev bragt ind i Ravlins i Nærheden liggende Kontorbygning, hvor Ravlin opholdt sig. I Kontoret blev med et dertil indrettet Stempel Borekærnen presset ud af Kærnetageren.
+
+Borekærnen var helt dækket af Slam, hvorfor Ravlin vaskede den med en Pensel. Det viste sig da, at den bestod af vekslende Skraa Lag af graa Kalksten og sort Skifer, som omtrent i Midten af Borekærnen afbrødes af 17 cm. klart Salt (sammenpressede Saltkrystaller). Da Saltet kom til Syne, udbrød Dr. Madsen: »der har vi ligegodt Saltet«. Alle slikkede paa det og konstaterede, at det var Salt. Baade over og under Saltet fandtes den graa Kalksten, som Saltet saaledes var presset ind i.
+
+Det ved Boringerne fundne Salttag maa anses for at være presset ind i de vekslende Lag af graa Kalksten og sort Skifer — Salt er plastisk ved betydelige Tryk — fra den Saltmasse i Nærheden, som er paavist ved de seismiske Undersøgelser.
+
+Hvad angaar den teoretiske Mulighed, at Saltstykket i Forvejen kunde være anbragt i Kærnestykket, ytrede Dr. Madsen, at dette maatte anses for udelukket, da et saadant Indhold i Kærnerøret vilde blive presset ud af det og op i den nederste Borestang, efterhaanden som Kærnerøret ved Boringen fyldtes fra neden af Borekærnen. I øvrigt vilde det være vanskeligt at skaffe sig et rundt Saltstykke, der i Dimension ganske nøje svarede til Kærnerørets Indre, hvad det paagældende Saltstykke gjorde. Anbringelsen vilde desuden vanskelig kunne skjules for Boremesteren og Arbejderne, der skruede Kærnerøret og Borestængerne sammen og satte Boret ned i Borehullet. I givet Fald vilde der formentlig ogsaa være blevet anbragt et længere Saltstykke, idet det er noget abnormt, at et Saltlag har en saa ringe Tykkelse som de 17 cm, der var Længden af Saltkærnen.
+
+Det er efter Dr. Madsens Formening ganske udelukket, at der kan være foregaaet Uregelmæssigheder i Forbindelse med Saltboringen.
