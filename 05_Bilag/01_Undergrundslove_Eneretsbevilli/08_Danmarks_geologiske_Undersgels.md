@@ -1,5 +1,23 @@
 ### Danmarks geologiske Undersøgelses Skrivelse af 21. November 1936 til Statsministeriet.
 
-Bilag 8.
+**Bilag 8.**
 
-(Content goes here)
+For at Statens Interesser kan blive tilbørligt varetagne, hvis en Privatmand eller et privat Selskab med Statens Tilladelse foretager Efterforskning efter saadanne Raastoffer, saa at disse ikke overses ved Efterforskningen, men virkelig paavises, naar de er tilstede, er der i Lovens § 3 fastsat, at enhver, der i Medfør af Loven lader udføre en Dybdeboring, skal til Danmarks (d.v.s. Statens) geologiske Undersøgelse indsende Meddelelse om Boringens Beliggenhed, om de gennemborede Jord- eller Stenlags Tykkelse og Beskaffenhed og om de fundne Raastoffer samt Prøver af Jord- og Stenlagene og af Raastofferne. Inden Boringen paabegyndes, skal Meddelelse herom indsendes, saaledes at Danmarks geologiske Undersøgelse kan øve Kontrol (d.v.s. Tilsyn) med Boringen under dennes Udførelse.
+
+Disse Bestemmelser er sat ind i selve Loven ud fra den Betragtning, at Staten som Ejer af Raastofferne bør vide nøjagtig Besked, ikke alene om de er tilstede paa det Sted, hvor Efterforskningen sker, men ogsaa om deres Beskaffenhed, og om de Forhold, hvorunder de forekommer i Undergrunden, saa at de geologiske Erfaringer, der indvindes ved Boringen, ikke gaar til Spilde, og de positive eller negative Oplysninger, der indhentes ved Boringen, ikke gaar tabte, hvis Efterforskningen opgives, men af Staten kan nyttegøres, hvis denne senere selv vil fortsætte Efterforskningen. De Oplysninger og Prøver, som Efterforskeren skal indsende til Staten, d.v.s. til Danmarks geologiske Undersøgelse, maa betragtes som en Naturalydelse, der er indbefattet i de Afgifter, der skal svares til Staten for Eneretsbevilling til Efterforskningen og Indvindingen.
+
+For at de i Loven foreskrevne positive og negative Oplysninger og Prøver kan tilvejebringes, saaledes som Statens Tarv fordrer det, har det — i hvert Fald paa Sagens nuværende Udviklingstrin — været absolut nødvendigt, at Boringen stadig kontrolleres og tilses af en sagkyndig Geolog, og dette er særlig Tilfældet, naar, som i det foreliggende Tilfælde, de, der udfører Boringen, er ganske blottede for geologisk Sagkundskab.
+
+Kun den sagkyndige Geolog kan afgøre, naar der skal tages Prøver, og kontrollere og tilse, at Prøveudtagningen sker paa en forsvarlig Maade, samt paase, at der ikke ved en Fejltagelse eller Ombytning sker en Forveksling af Boreprøverne, altsaa, at deres Etikettering er til at stole paa.
+
+Endvidere kan den tilsynshavende, kontrollerende Geolog gribe ind, naar Boringen ikke foretages paa en for Statens Tarv betryggende Maade, og henstille, eventuelt forlange, at der f. Eks. ikke bores med en Mejsel, men foretages en Kærneboring.
+
+I det foreliggende Tilfælde var Mr. Ravlin ikke videre tilbøjelig til at anvende Kærneboring — denne tager længere Tid og er saaledes dyrere end Mejselboringen —, men paa den tilsynshavende Geologs indstændige Henstilling foretog han dog i den sidste Tid flere Gange Kærneboring. Det er min Overbevisning, at havde der ikke været en Geolog tilstede, og var der ikke paa hans Opfordring blevet foretaget en Kærneboring i Dybdem 957-959 m, var Saltet ikke blevet fundet, idet det er umuligt ved en Mejselboring Sikkerhed at paavise dette Stof, naar det drejer sig om saa tyndt et Saltlag som i det foreliggende Tilfælde. Det er ingenlunde udelukket, at man ved Mejselboringen kan være kommet forbi højere liggende, tynde Saltlag, uden at mærke dem.
+
+Af det ovenfor udviklede fremgaar det formentlig tydeligt, at saa længe Hr. Ravlin ikke selv har ansat en Geolog, hvis Sagkundskab og Paalidelighed kan anerkendes fra D.G.U.'s Side, er det absolut nødvendigt, at enhver Dybdeboring, som foretages her i Landet, hele Tiden kontrolleres og tilses af en af Statens egne sagkyndige Geologer, hvis Arbejde ved Boringen ikke blot er af videnskabelig Karakter, men ogsaa foregaar til Varetagelse af Statens Interesse i, at der findes værdifulde Raastoffer, og i at disse ikke overses. Hr. Ravlin har altsaa ikke Ret i at sige, at Geologerne ikke har foretaget andet end videnskabeligt Arbejde, og i at Boreprøverne lige saa godt kunde være indsamlede og indsendte af ham. Jeg tør sige, at da Hr. Ravlin ikke forstaar sig paa Geologi, kan Staten ikke overlade til ham at udtage og indsende Prøverne. Ligesaa lidt kan han bedømme, i hvor lang Tid det er nødvendigt at en sagkyndig Geolog kontrollerer og tilser Boringen.
+
+Det er min Overbevisning, at havde der ikke været en Geolog tilstede ved Boringen, var Saltet ikke blevet fundet.
+
+Jeg tillader mig derfor at indstille, at Hr. Ravlin betaler de 792 Kr. for det geologiske Tilsyn i 66 Dage, og at dette Beløb udbetales til Danmarks geologiske Undersøgelse, hvis normale Budget ikke kan bære Udgiften ved dette Tilsyn.
+
+**Victor Madsen.**
